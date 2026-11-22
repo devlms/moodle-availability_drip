@@ -1,0 +1,8 @@
+{
+  "name": "moodle-availability_drip-form",
+  "builds": {
+    "moodle-availability_drip-form": {
+      "jsfiles": ["form.js"]
+    }
+  }
+}

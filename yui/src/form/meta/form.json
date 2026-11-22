@@ -1,0 +1,5 @@
+{
+  "moodle-availability_drip-form": {
+    "requires": ["base", "node", "event", "event-valuechange", "moodle-core_availability-form"]
+  }
+}
