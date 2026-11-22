@@ -1,3 +1,4 @@
+/* eslint camelcase: "off" -- M.availability_drip is the name core_availability requires. */
 /**
  * Form for the days since enrolment condition.
  *
