@@ -48,4 +48,5 @@ M.availability_drip.form.fillErrors = function(errors, node) {
     }
 };
 
+
 }, '@VERSION@', {"requires": ["base", "node", "event", "event-valuechange", "moodle-core_availability-form"]});
